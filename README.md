@@ -2,7 +2,7 @@
 
 A beautiful web application that generates creative song lyrics using Google's Gemini AI. Built with React, TypeScript, and Tailwind CSS.
 
-<a href="https://github.com/shivanimakvana/melodia-ai"> <img src="https://github.com/shivanimakvana/melodia-ai/blob/main/banner.png"></a>
+<a href="https://melodia-ai.vercel.app"> <img src="https://github.com/shivanimakvana/melodia-ai/blob/main/banner.png"></a>
 
 
 ## Features
